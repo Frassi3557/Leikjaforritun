@@ -9,13 +9,17 @@
 ## Berðu saman og tilgreindu amk. 3 mismunandi tegundir af 2d tölvuleikjum
 Dæmi um fræga 2D leiki:
 
-Action: Hotline Miami, Hyperlight Drifter, Enter the Gungeon, Cuphead...
+Action: Hotline Miami, Hyperlight Drifter, Enter the Gungeon, Cuphead.
+Aðal áherslan er á hasar og við fyrstu sýn er ekki mikil baksaga eða world building. Hotline Miami og Hyperlight Drifter hinsvegar eru kjaftfullir af sögu þegar að nánar er litið.
 
-Strategy: Rimworld, The Escapists, Prison Architect, Factorio...
+Strategy: Rimworld, The Escapists, Prison Architect, Factorio.
+Aðal áherslan er í bragðvísi eða herkænsku. Í Rimworld þarftu að stjórna nýlendu á ókunnugri plánetu og lifa af. Prison Architect snýst um að hanna hið fullkomna fangelsi, The Escapists snýst hinsvegar um að brjótast úr því. Factorio snýst um mann sem er dæmdur í útleigð á ókunnuga plánetu, spilari þarf að búa til eins góða verksmiðju og hann getur, til þess að búa til geimflaug og komast af plánetunni.
 
-Adventure: Starbound, Undertale, Terraria...
+Adventure: Starbound, Undertale, Terraria.
+Aðal áhersla er á atmosphere, oft er tónlist helsta áherslan og oft mjög stílíseraðir leikir. Flottir bakgrunnir og framandi staðsetningar, "other worldly" óvinir.
 
-Puzzle: Papers, Please; Tetris... 
+Puzzle: Papers, Please; Tetris.
+Aðal áherslan er að leysa gátur eða þrautir. Papers, Please setur spilara í hlutverk landamæraeftirlits í Sóvét Ríkjunum. Spilari þarf að taka við vegabréfum frá fólki og staðfesta að allt sé eins og það eigi að vera. Það þekkja allir Tetris, það er mest seldi leikur allra tíma, hann er svolítið eins og dynamic púsluspil sem endar aldrei.
 
 
 ## Hvað er og hvenær er heppilegt að nota 2.5d í tölvuleikjagerð? 
@@ -26,7 +30,7 @@ Leikir eins og DooM og Wolfenstein notuðu líka svipaða aðferð til þess að
 
 
 ## Hvers vegna að nota 4d í tölvuleikjagerð? Komdu með dæmi um tölvuleiki í 4d og útskýrðu 4d virkni hans
-Það fer eftir því hvað þú telur fjórðu víddina vera, margir telja hana vera tími og eru til þó nokkrir leikir sem nýta tímaflakk sem tæku til að segja sögu leiksins. Eitt dæmi úr leik sem ég hef spilað er úr Dishonored 2, þar fær spilari tæki í hendurnar sem gerir honum kleift að ferðast aftur í tímann. Spilari er í yfirgefnu húsið þar sem flestar gönguleiðir eru girtar af, þar sem húsið er gamalt og liggur í rústum. Spilarinn getur þá ferðast aftur í tímann, þegar að húsið var nýtt og komist þannig í gegnum rústirnar og jafnvel fært hluti til, og búið þannig til nýja leið í framtíðinni.
+Það fer eftir því hvað þú telur fjórðu víddina vera, margir telja hana vera tími og eru til þó nokkrir leikir sem nýta tímaflakk sem tæku til að segja sögu leiksins. Eitt dæmi úr leik sem ég hef spilað er úr Dishonored 2, þar fær spilari tæki í hendurnar sem gerir honum kleift að ferðast aftur í tímann. Spilari er í yfirgefnu húsið þar sem flestar gönguleiðir eru girtar af, þar sem húsið er gamalt og liggur í rústum. Spilarinn getur þá ferðast aftur í tímann, þegar að húsið var nýtt og komist þannig í gegnum rústirnar og jafnvel fært hluti til, og búið þannig til nýja leið í framtíðinni. 
 Dæmi: https://www.youtube.com/watch?v=fGy6vsA7Z9M
 
 Titanfall 2 gerði einnig svipað: https://youtu.be/MOLS8vt9AaM?t=39
@@ -34,4 +38,4 @@ Titanfall 2 gerði einnig svipað: https://youtu.be/MOLS8vt9AaM?t=39
 Miegakure er frægasti 4D leikurinn og nýtir hann fjórðu víddina sem raunverulega fleti, hægt er að breyta umhverfinu og snýst leikurinn um að leysa "puzzles" með þessari fjórðu vídd.
 Dæmi: https://www.youtube.com/watch?v=9EfiilXN6S8
 
-4D getur verið mjög áhrifarík leið til þess að segja sögu og tel ég það vera helsta ástæðan til að nota hana í tölvuleik.
+4D getur verið mjög áhrifaríkt tól til þess að segja sögu og tel ég það vera helsta ástæðan til að nota hana í tölvuleik.
