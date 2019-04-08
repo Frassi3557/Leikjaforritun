@@ -10,7 +10,7 @@
 Dæmi um fræga 2D leiki:
 
 Action: Hotline Miami, Hyperlight Drifter, Enter the Gungeon, Cuphead.
-Aðal áherslan er á hasar og við fyrstu sýn er ekki mikil baksaga eða world building. Hotline Miami og Hyperlight Drifter hinsvegar eru kjaftfullir af sögu þegar að nánar er litið.
+Aðal áherslan er á hasar og við fyrstu sýn er ekki mikil baksaga eða "world building". Hotline Miami og Hyperlight Drifter hinsvegar eru kjaftfullir af sögu þegar að nánar er litið.
 
 Strategy: Rimworld, The Escapists, Prison Architect, Factorio.
 Aðal áherslan er í bragðvísi eða herkænsku. Í Rimworld þarftu að stjórna nýlendu á ókunnugri plánetu og lifa af. Prison Architect snýst um að hanna hið fullkomna fangelsi, The Escapists snýst hinsvegar um að brjótast úr því. Factorio snýst um mann sem er dæmdur í útleigð á ókunnuga plánetu, spilari þarf að búa til eins góða verksmiðju og hann getur, til þess að búa til geimflaug og komast af plánetunni.
@@ -30,7 +30,7 @@ Leikir eins og DooM og Wolfenstein notuðu líka svipaða aðferð til þess að
 
 
 ## Hvers vegna að nota 4d í tölvuleikjagerð? Komdu með dæmi um tölvuleiki í 4d og útskýrðu 4d virkni hans
-Það fer eftir því hvað þú telur fjórðu víddina vera, margir telja hana vera tími og eru til þó nokkrir leikir sem nýta tímaflakk sem tæku til að segja sögu leiksins. Eitt dæmi úr leik sem ég hef spilað er úr Dishonored 2, þar fær spilari tæki í hendurnar sem gerir honum kleift að ferðast aftur í tímann. Spilari er í yfirgefnu húsið þar sem flestar gönguleiðir eru girtar af, þar sem húsið er gamalt og liggur í rústum. Spilarinn getur þá ferðast aftur í tímann, þegar að húsið var nýtt og komist þannig í gegnum rústirnar og jafnvel fært hluti til, og búið þannig til nýja leið í framtíðinni. 
+Það fer eftir því hvað þú telur fjórðu víddina vera, margir telja hana vera tíminn og eru til þó nokkrir leikir sem nýta tímaflakk sem tæki til að segja sögu leiksins. Eitt dæmi úr leik sem ég hef spilað er í Dishonored 2, þar fær spilari tæki í hendurnar sem gerir honum kleift að ferðast aftur í tímann. Spilari er í yfirgefnu húsi þar sem flestar gönguleiðir eru girtar af, þar sem húsið er gamalt og liggur í rústum. Spilarinn getur þá ferðast aftur í tímann, þegar að húsið var nýtt og komist þannig í gegnum rústirnar og jafnvel fært hluti til, og búið þannig til nýja leið, í nútímanum. 
 Dæmi: https://www.youtube.com/watch?v=fGy6vsA7Z9M
 
 Titanfall 2 gerði einnig svipað: https://youtu.be/MOLS8vt9AaM?t=39
