@@ -3,10 +3,9 @@
 Leikurinn er ekki stór eða flókinn.
 
 Ég hef alltaf verið mjög hrifinn af Japan og þeirra menningu sem og sögu.
-Ég hef verið, nýlega, að horfa mikið á gamlar japanskar samúraía myndir 
-
-      Harakiri, Ran, The Hidden Fortress, Throne of Blood og Yojimbo, Sword of Desperation. Allt myndir sem ég mæli eindregið með 
-og spilaði einnig í gegnum Sekiro: Shadows Die Twice.
+Ég hef verið, nýlega, að horfa mikið á gamlar japanskar samúraía myndir eins og Harakiri, Ran, The Hidden Fortress, Throne of Blood, Yojimbo og Sword of Desperation. 
+Allt myndir sem ég mæli eindregið.
+Einnig spilaði ég í gegnum Sekiro: Shadows Die Twice sem gerist á tímum samúraía, þ.e. Sengoku tímabil Japans.
 Það varð til þess að ég ákvað að hafa japanskan þema á leiknum.
 Karakterinn er spilarinn leikur á að vera shinobi, eða ninja, og á að vera klæddur sem fátækur bóndi til þess að blandast inn í umhverfið, líta út eins og hann sé hluti af almúgnum.
 
