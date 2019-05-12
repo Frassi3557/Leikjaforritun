@@ -13,15 +13,15 @@ Hægt er að hreyfa karakterinn með WASD og sveifla litlu sverði með því a�
 
 Öll sprites sem og animations í leiknum (fyrir utan jörðina og bakgrunnsmyndina), eru gerð af mér í gegnum Piskel. Ég notaði ekki öll sprite-in eða animation-in sem ég gerði. 
 
-    Hægt er að sjá öll sprite-in [Hér](https://www.piskelapp.com/user/6207592649457664).
+   Hægt er að sjá öll sprite-in [Hér](https://www.piskelapp.com/user/6207592649457664).
 
-    Ég hafði ekki nægan tíma til að ná að gefa samúraíanum animations þannig að hann flýtur bara í áttina að spilaranum.
+   Ég hafði ekki nægan tíma til að ná að gefa samúraíanum animations þannig að hann flýtur bara í áttina að spilaranum.
 
-    Allt hjálparefni sem ég notaði kom frá [Unity](https://unity3d.com/learn/tutorials/s/2d-game-creation).
+   Allt hjálparefni sem ég notaði kom frá [Unity](https://unity3d.com/learn/tutorials/s/2d-game-creation).
 
-    Upptaka úr leiknum er [hér](https://i.imgur.com/oV2UTGS.mp4).
+   Upptaka úr leiknum er [hér](https://i.imgur.com/oV2UTGS.mp4).
 
-    [GitHub Project](https://github.com/Frassi3557/Leikjaforritun/).
+   [GitHub Project](https://github.com/Frassi3557/Leikjaforritun/).
 
 ## Ókláruð virkni
 
