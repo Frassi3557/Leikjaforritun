@@ -9,6 +9,8 @@ Karakterinn er spilarinn leikur á að vera shinobi, eða ninja, og á að vera 
 
 Hægt er að hreyfa karakterinn með WASD og sveifla litlu sverði með því að ýta á SPACE.
 
+Á karakternum er Boxcollider2D sem verður active þegar að notandi ýtir á SPACE, þá er trigger sem spilar attack animation og leikurinn skynjar árekstur milli tveggja boxcollidera sem eru báðir trigger.
+
 Það er 1 samúraíi sem byrjar með karakternum, ef að þú ræðst á hann hverfur hann, það er eitthvað sem ég hefði viljað gera betur en náði ekki vegna tíma.
 
 Öll sprites sem og animations í leiknum (fyrir utan jörðina og bakgrunnsmyndina), eru gerð af mér í gegnum Piskel. Ég notaði ekki öll sprite-in eða animation-in sem ég gerði. 
