@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Lokaverkefni 
 
-You can use the [editor on GitHub](https://github.com/Frassi3557/Leikjaforritun/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Leikurinn er ekki stór eða flókinn.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hægt er að hreyfa karakterinn með WASD og sveifla litlu sverði með því að ýta á SPACE.
+
+Það er 1 samúraíi sem byrjar með karakternum, ef að þú ræðst á hann hverfur hann, það er eitthvað sem ég hefði viljað gera betur en náði ekki vegna tíma.
+
+Öll sprite-in í leiknum eru gerð af mér, með Piskel. Ég notaði ekki öll sprite-in sem ég gerði og hægt er að sjá öll sprite-in [Link](https://www.piskelapp.com/user/6207592649457664)
 
 ### Markdown
 
