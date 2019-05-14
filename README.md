@@ -25,7 +25,7 @@ Hægt er að hreyfa karakterinn með WASD og sveifla litlu sverði með því a�
 
    Upptaka úr leiknum er [hér](https://i.imgur.com/oV2UTGS.mp4).
 
-   [GitHub Project](https://github.com/Frassi3557/Leikjaforritun/).
+   [GitHub Project](https://github.com/Frassi3557/Leikjaforritun/tree/master/Verkefni%205).
 
 ## Ókláruð virkni
 
